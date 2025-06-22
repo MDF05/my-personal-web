@@ -50,22 +50,27 @@ export default function Home() {
     {
       title: "Frontend and React Developer",
       issuer: "Dicoding X Indosat IDCamp",
-      image: "/assets/images/brand/dicoding.jpeg"
+      image: "/assets/images/certificate/frontend-react/aplikasi-react.jpg"
     },
     {
       title: "Belajar Frontend Web Pemula",
       issuer: "Dicoding X Indosat IDCamp",
-      image: "/assets/images/brand/dicoding.jpeg"
+      image: "/assets/images/certificate/frontend-react/frontend-pemula.jpg",
     },
     {
       title: "Belajar Dasar Pemrograman Javascript",
       issuer: "Dicoding X Indosat IDCamp",
-      image: "/assets/images/brand/dicoding.jpeg"
+      image: "/assets/images/certificate/frontend-react/dasar-javascript.jpg"
     },
     {
       title: "Belajar Dasar Pemrograman Web",
       issuer: "Dicoding X Indosat IDCamp",
-      image: "/assets/images/brand/dicoding.jpeg"
+      image: "/assets/images/certificate/frontend-react/dasar-pemrograman-web.jpg"
+    },
+    {
+      title: "Belajar Dasar AI",
+      issuer: "Dicoding X Indosat IDCamp",
+      image: "/assets/images/certificate/frontend-react/dasar-ai.jpg"
     },
     {
       title: "Intro to Software Engineer",
@@ -583,7 +588,7 @@ export default function Home() {
             </h2>
             <div className={styles.ctaRow}>
               <motion.a
-                href="/cv.pdf"
+                href="/assets/pdf/CV_ATS_MUHAMMAD_DAVA_FAHREZA.pdf"
                 download
                 style={{
                   background: 'linear-gradient(90deg, #00f0ff 0%, #0af 100%)',
@@ -615,7 +620,7 @@ export default function Home() {
                 Download CV
               </motion.a>
               <motion.a
-                href="./assets/pdf/portfolio_Muhammad_Dava_Fahreza.pdf"
+                href="/assets/pdf/portfolio.pdf"
                 download
                 style={{
                   background: 'linear-gradient(90deg, #0af 0%, #00f0ff 100%)',
