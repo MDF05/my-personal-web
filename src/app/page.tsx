@@ -712,7 +712,7 @@ export default function Home() {
                 As a <span className={styles.highlight}>Full-Stack Developer</span>, I bridge vision and reality by building <span className={styles.highlight}>scalable</span>, high-performance digital solutions.<br />
                 My expertise spans modern web technologies, including <span className={styles.highlight}>JavaScript/TypeScript (Next.js, React, Vue)</span>, backend frameworks (<span className={styles.highlight}>Laravel, Spring Boot, ASP.NET, Flask</span>), and database architecture—all engineered with <span className={styles.highlight}>clean, maintainable code</span>.<br /><br />
                 Beyond technical execution, I thrive on solving complex problems and optimizing user experiences. Whether launching MVPs or refining enterprise systems, I balance <span className={styles.highlight}>innovation</span> with <span className={styles.highlight}>robustness</span>.<br /><br />
-                <span style={{ color: '#00f0ff', fontWeight: 700, fontSize: 20 }}>Let's collaborate to transform ideas into impact—where technology meets purpose.</span>
+                <span style={{ color: '#00f0ff', fontWeight: 700, fontSize: 20 }}>Let&#39;s collaborate to transform ideas into impact—where technology meets purpose.</span>
               </>
             ) : (
               <>
