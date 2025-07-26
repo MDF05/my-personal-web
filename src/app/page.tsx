@@ -588,7 +588,7 @@ export default function Home() {
             </h2>
             <div className={styles.ctaRow}>
               <motion.a
-                href="/assets/pdf/CV_ATS_MUHAMMAD_DAVA_FAHREZA.pdf"
+                href="https://qr.me-qr.com/qeZz9wN2"
                 download
                 style={{
                   background: 'linear-gradient(90deg, #00f0ff 0%, #0af 100%)',
@@ -620,7 +620,7 @@ export default function Home() {
                 Download CV
               </motion.a>
               <motion.a
-                href="/assets/pdf/portfolio.pdf"
+                href="https://qr.me-qr.com/xVBOttjc"
                 download
                 style={{
                   background: 'linear-gradient(90deg, #0af 0%, #00f0ff 100%)',
